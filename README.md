@@ -5,8 +5,6 @@
 - 🏠 Mein Wohnsitz ist ebenfalls in Dortmund
 - 🧠 Zur Zeit lerne ich wichtige Machine Laerning Algorithmen von Grund auf zu implementieren in Python 
 
--->
-
 
 ## 🌐 Kontakt:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chikamso-iyke) 
