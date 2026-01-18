@@ -39,6 +39,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jci02)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
