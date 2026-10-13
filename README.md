@@ -3,7 +3,7 @@
 - 🧑🏼‍🎓 Ich studiere Data Science an der TU Dortmund
 - 💻 Momentan suche ich nach einem Werkstudentenjob im Bereich IT
 - 🏠 Mein Wohnsitz ist ebenfalls in Dortmund
-- 🧠 Zur Zeit lerne ich wichtige Machine Laerning Algorithmen von Grund auf zu implementieren in Python 
+- 🧠 Zur Zeit lerne Full Stack Development 
 
 
 ## 🌐 Kontakt:
