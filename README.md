@@ -1,8 +1,5 @@
 ## Hallo ich bin Jerry! 👋
 
-- 🧑🏼‍🎓 Ich studiere B.Sc. Data Science an der TU Dortmund
-- 💻 Momentan suche ich nach einem Werkstudentenjob im Bereich IT
-- 🏠 Mein Wohnsitz ist ebenfalls in Dortmund
 - 🧠 Zur Zeit lerne ich Full-Stack Development 
 
 
