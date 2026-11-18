@@ -1,7 +1,5 @@
 ## Hallo ich bin Jerry! 👋
 
-- 🧠 Zur Zeit lerne ich Full-Stack Development 
-
 
 ## 🌐 Kontakt:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chikamso-iyke) 
